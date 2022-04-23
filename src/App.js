@@ -3,6 +3,7 @@ import { Note } from './components/Note'
 import './styles.css'
 
 export const App = () => {
+  // Testing codesandbox
   const [notes, setNotes] = useState([
     {
       id: 1,
